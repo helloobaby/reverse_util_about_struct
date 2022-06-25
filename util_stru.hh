@@ -1,3 +1,4 @@
+#pragma once
 #include<cstddef>
 
 #define STR_MERGE_IMPL(a, b) a##b
