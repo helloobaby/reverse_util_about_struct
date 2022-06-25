@@ -1,4 +1,4 @@
-#include "align.hh"
+#include "util_stru.hh"
 
 #include <iostream>
 struct ETHREAD
